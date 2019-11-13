@@ -4,7 +4,8 @@ addition(1,2)=sum
 end
 
 def subtraction(num1, num2)
-
+sum=num1-num2
+subtraction(2,1)=sum 
 end
 
 def division(num1, num2)
