@@ -14,7 +14,8 @@ division(2,1)=sum
 end
 
 def multiplication(num1, num2)
-
+sum=num1*num2
+multiplication(1,2)=sum 
 end
 
 def modulo(num1, num2)
