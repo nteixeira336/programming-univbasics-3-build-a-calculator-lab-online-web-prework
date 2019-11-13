@@ -19,7 +19,8 @@ multiplication(1,2)=sum
 end
 
 def modulo(num1, num2)
-
+sum=num2/num1
+modulo(2.1/1.0)=sum 
 end
 
 def square_root(num)
