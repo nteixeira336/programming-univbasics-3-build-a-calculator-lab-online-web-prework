@@ -24,5 +24,5 @@ modulo(2.1/1.0)=sum
 end
 
 def square_root(num)
-
+sum=
 end
